@@ -83,7 +83,7 @@
             <version>${jline.version}</version>
         </dependency>
         <dependency>
-            <groupId>frege</groupId>
+            <groupId>org.frege-lang</groupId>
             <artifactId>frege-interpreter-core</artifactId>
             <version>${frege.interpreter.version}</version>
         </dependency>
